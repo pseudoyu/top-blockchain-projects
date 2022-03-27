@@ -1,0 +1,37 @@
+name: update
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    # Runs every day at 8 AM
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+      - uses: actions/checkout@v2
+        with:
+          ref: "master"
+
+      - name: Set up go env
+      - uses: actions/setup-go@v2
+        with:
+          go-version: "1.14"
+          check-latest: true
+
+      - name: Generate latest list
+      - run: |
+          echo ${{ secrets.PERSONAL_TOKEN }} >> .env
+          go run main.go
+
+      - name: Update list
+        run: |-
+          git diff
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push
