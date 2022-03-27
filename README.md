@@ -5,7 +5,7 @@ Top github blockchain projects by number of stars.
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
 | [bitcoin](https://github.com/bitcoin/bitcoin) | 62824 | 31950 | 1010 | Bitcoin Core integration/staging tree | 2022-03-25 21:04:51 |
-| [go-ethereum](https://github.com/ethereum/go-ethereum) | 36296 | 13496 | 327 | Official Go implementation of the Ethereum protocol | 2022-03-25 15:46:31 |
+| [go-ethereum](https://github.com/ethereum/go-ethereum) | 36296 | 13497 | 326 | Official Go implementation of the Ethereum protocol | 2022-03-27 11:21:36 |
 | [ipfs](https://github.com/ipfs/ipfs) | 20530 | 1371 | 6 | Peer-to-peer hypermedia protocol | 2022-02-27 21:45:13 |
 | [diem](https://github.com/diem/diem) | 16386 | 2537 | 370 | Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world. | 2022-03-10 07:27:36 |
 | [solidity](https://github.com/ethereum/solidity) | 15536 | 3794 | 1015 | Solidity, the Smart Contract Programming Language | 2022-03-24 14:16:55 |
@@ -44,4 +44,4 @@ Top github blockchain projects by number of stars.
 | [WeCross](https://github.com/WeBankBlockchain/WeCross) | 159 | 55 | 31 | WeCross跨链路由 | 2021-12-17 08:50:13 |
 | [aave-v3-core](https://github.com/aave/aave-v3-core) | 155 | 49 | 6 | This repository contains the core smart contracts of the Aave V3 protocol. | 2022-03-18 09:39:26 |
 
-*Last Update Time: 2022-03-27T11:21:33Z*
+*Last Update Time: 2022-03-27T11:25:51Z*
