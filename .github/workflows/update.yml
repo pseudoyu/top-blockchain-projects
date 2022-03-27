@@ -12,18 +12,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
-      - uses: actions/checkout@v2
+        uses: actions/checkout@v2
+
+
         with:
           ref: "master"
 
       - name: Set up go env
-      - uses: actions/setup-go@v2
+        uses: actions/setup-go@v2
         with:
           go-version: "1.14"
           check-latest: true
 
       - name: Generate latest list
-      - run: |
+        run: |
           echo ${{ secrets.PERSONAL_TOKEN }} >> .env
           go run main.go
 
