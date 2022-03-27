@@ -5,7 +5,7 @@ Top github blockchain projects by number of stars.
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
 | [bitcoin](https://github.com/bitcoin/bitcoin) | 62823 | 31950 | 1010 | Bitcoin Core integration/staging tree | 2022-03-25 21:04:51 |
-| [go-ethereum](https://github.com/ethereum/go-ethereum) | 36298 | 13497 | 326 | Official Go implementation of the Ethereum protocol | 2022-03-27 11:21:36 |
+| [go-ethereum](https://github.com/ethereum/go-ethereum) | 36299 | 13497 | 326 | Official Go implementation of the Ethereum protocol | 2022-03-27 11:21:36 |
 | [ipfs](https://github.com/ipfs/ipfs) | 20530 | 1371 | 6 | Peer-to-peer hypermedia protocol | 2022-02-27 21:45:13 |
 | [diem](https://github.com/diem/diem) | 16386 | 2537 | 370 | Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world. | 2022-03-10 07:27:36 |
 | [solidity](https://github.com/ethereum/solidity) | 15537 | 3794 | 1015 | Solidity, the Smart Contract Programming Language | 2022-03-24 14:16:55 |
@@ -13,10 +13,10 @@ Top github blockchain projects by number of stars.
 | [fabric](https://github.com/hyperledger/fabric) | 13333 | 7836 | 91 | Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy. | 2022-03-25 11:49:10 |
 | [truffle](https://github.com/trufflesuite/truffle) | 12827 | 2086 | 517 | A tool for developing smart contracts. Crafted with the finest cacaos. | 2022-03-25 02:26:35 |
 | [eos](https://github.com/EOSIO/eos) | 11335 | 3694 | 379 | An open source smart contract platform  | 2021-07-19 23:22:42 |
-| [solana](https://github.com/solana-labs/solana) | 7714 | 1807 | 848 | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. | 2022-03-27 01:31:40 |
+| [solana](https://github.com/solana-labs/solana) | 7715 | 1807 | 848 | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. | 2022-03-27 01:31:40 |
 | [substrate](https://github.com/paritytech/substrate) | 6809 | 2066 | 874 | Substrate: The platform for blockchain innovators | 2022-03-27 06:43:47 |
-| [monero](https://github.com/monero-project/monero) | 6780 | 3259 | 486 | Monero: the secure, private, untraceable cryptocurrency | 2022-03-18 21:34:16 |
-| [polkadot](https://github.com/paritytech/polkadot) | 5535 | 1173 | 539 | Polkadot Node Implementation | 2022-03-26 14:27:39 |
+| [monero](https://github.com/monero-project/monero) | 6780 | 3260 | 486 | Monero: the secure, private, untraceable cryptocurrency | 2022-03-18 21:34:16 |
+| [polkadot](https://github.com/paritytech/polkadot) | 5536 | 1173 | 539 | Polkadot Node Implementation | 2022-03-26 14:27:39 |
 | [tendermint](https://github.com/tendermint/tendermint) | 4753 | 1575 | 422 | ⟁ Tendermint Core (BFT Consensus) in Go | 2022-03-25 19:39:20 |
 | [ethers.js](https://github.com/ethers-io/ethers.js) | 4462 | 1023 | 229 | Complete Ethereum library and wallet implementation in JavaScript. | 2022-03-25 21:56:35 |
 | [quorum](https://github.com/ConsenSys/quorum) | 4126 | 1127 | 40 | A permissioned implementation of Ethereum supporting data privacy | 2022-03-14 12:26:12 |
@@ -40,8 +40,8 @@ Top github blockchain projects by number of stars.
 | [ens](https://github.com/ensdomains/ens) | 867 | 387 | 78 | Implementations for ENS core functionality: The registry, registrars, and public resolvers. | 2021-01-27 22:59:06 |
 | [cello](https://github.com/hyperledger/cello) | 788 | 398 | 60 | Operating System for Enterprise Blockchain | 2022-03-25 06:12:17 |
 | [bitxhub](https://github.com/meshplus/bitxhub) | 518 | 73 | 20 | Interchain protocol 跨链协议 | 2022-03-24 10:00:08 |
-| [contracts](https://github.com/maticnetwork/contracts) | 475 | 196 | 37 | Smart contracts comprising the business logic of the Matic Network | 2022-01-26 08:43:04 |
+| [contracts](https://github.com/maticnetwork/contracts) | 476 | 196 | 37 | Smart contracts comprising the business logic of the Matic Network | 2022-01-26 08:43:04 |
 | [WeCross](https://github.com/WeBankBlockchain/WeCross) | 159 | 55 | 31 | WeCross跨链路由 | 2021-12-17 08:50:13 |
-| [aave-v3-core](https://github.com/aave/aave-v3-core) | 155 | 49 | 6 | This repository contains the core smart contracts of the Aave V3 protocol. | 2022-03-18 09:39:26 |
+| [aave-v3-core](https://github.com/aave/aave-v3-core) | 156 | 50 | 6 | This repository contains the core smart contracts of the Aave V3 protocol. | 2022-03-18 09:39:26 |
 
-*Last Update Time: 2022-03-27T13:03:59Z*
+*Last Update Time: 2022-03-27T13:51:12Z*
