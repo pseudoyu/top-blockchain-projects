@@ -8,7 +8,7 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  build:
+  auto-update-list:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
@@ -35,5 +35,5 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add -A
-          git commit -m "Updated content" || exit 0
+          git commit -m "Updated list" || exit 0
           git push
