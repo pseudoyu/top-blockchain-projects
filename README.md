@@ -4,44 +4,44 @@ Top github blockchain projects by number of stars.
 
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
-| [bitcoin](https://github.com/bitcoin/bitcoin) | 87714 | 38739 | 757 | Bitcoin Core integration/staging tree | 2026-01-19 16:45:05 |
-| [go-ethereum](https://github.com/ethereum/go-ethereum) | 50703 | 21738 | 359 | Go implementation of the Ethereum protocol | 2026-01-19 12:45:31 |
-| [solidity](https://github.com/argotorg/solidity) | 25501 | 6296 | 660 | Solidity, the Smart Contract Programming Language | 2026-01-19 23:37:55 |
-| [ipfs](https://github.com/ipfs/ipfs) | 23026 | 1492 | 10 | Peer-to-peer hypermedia protocol | 2025-05-01 07:37:20 |
-| [web3.js](https://github.com/web3/web3.js) | 19964 | 5083 | 144 | Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions. | 2025-01-17 13:24:32 |
+| [bitcoin](https://github.com/bitcoin/bitcoin) | 87726 | 38745 | 748 | Bitcoin Core integration/staging tree | 2026-01-20 23:47:17 |
+| [go-ethereum](https://github.com/ethereum/go-ethereum) | 50702 | 21739 | 361 | Go implementation of the Ethereum protocol | 2026-01-20 12:36:07 |
+| [solidity](https://github.com/argotorg/solidity) | 25502 | 6296 | 660 | Solidity, the Smart Contract Programming Language | 2026-01-19 23:37:55 |
+| [ipfs](https://github.com/ipfs/ipfs) | 23027 | 1492 | 10 | Peer-to-peer hypermedia protocol | 2025-05-01 07:37:20 |
+| [web3.js](https://github.com/web3/web3.js) | 19961 | 5083 | 144 | Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions. | 2025-01-17 13:24:32 |
 | [diem](https://github.com/diem/diem) | 16710 | 2575 | 360 | Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world. | 2023-06-20 07:13:05 |
-| [fabric](https://github.com/hyperledger/fabric) | 16528 | 9113 | 188 | Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy. | 2026-01-18 12:36:47 |
-| [solana](https://github.com/solana-labs/solana) | 14740 | 5486 | 265 | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. | 2025-01-22 19:41:49 |
+| [fabric](https://github.com/hyperledger/fabric) | 16532 | 9114 | 188 | Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy. | 2026-01-18 12:36:47 |
+| [solana](https://github.com/solana-labs/solana) | 14742 | 5488 | 265 | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. | 2025-01-22 19:41:49 |
 | [truffle](https://github.com/ConsenSys-archive/truffle) | 13990 | 2317 | 527 | :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years. | 2023-09-21 19:42:58 |
-| [eos](https://github.com/EOSIO/eos) | 11237 | 3655 | 384 | An open source smart contract platform  | 2021-07-19 23:22:42 |
-| [monero](https://github.com/monero-project/monero) | 10247 | 3358 | 738 | Monero: the secure, private, untraceable cryptocurrency | 2026-01-17 03:41:46 |
-| [ethers.js](https://github.com/ethers-io/ethers.js) | 8627 | 2100 | 625 | Complete Ethereum library and wallet implementation in JavaScript. | 2025-12-03 00:49:47 |
-| [substrate](https://github.com/paritytech/substrate) | 8429 | 2661 | 627 | Substrate: The platform for blockchain innovators | 2023-08-25 08:04:25 |
-| [hardhat](https://github.com/NomicFoundation/hardhat) | 8406 | 1687 | 652 | Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.  | 2026-01-19 18:55:39 |
-| [chainlink](https://github.com/smartcontractkit/chainlink) | 8136 | 1936 | 235 | node of the decentralized oracle network, bridging on and off-chain computation | 2026-01-19 16:36:10 |
-| [polkadot](https://github.com/paritytech/polkadot) | 7142 | 1555 | 223 | Polkadot Node Implementation | 2023-08-25 08:04:43 |
-| [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 6908 | 4121 | 225 | :chains: A Framework for Building High Value Public Blockchains :sparkles: | 2026-01-19 20:29:50 |
-| [tendermint](https://github.com/tendermint/tendermint) | 5854 | 2104 | 19 | ⟁ Tendermint Core (BFT Consensus) in Go | 2025-03-06 20:43:12 |
+| [eos](https://github.com/EOSIO/eos) | 11236 | 3655 | 384 | An open source smart contract platform  | 2021-07-19 23:22:42 |
+| [monero](https://github.com/monero-project/monero) | 10249 | 3359 | 738 | Monero: the secure, private, untraceable cryptocurrency | 2026-01-17 03:41:46 |
+| [ethers.js](https://github.com/ethers-io/ethers.js) | 8626 | 2101 | 625 | Complete Ethereum library and wallet implementation in JavaScript. | 2025-12-03 00:49:47 |
+| [substrate](https://github.com/paritytech/substrate) | 8428 | 2661 | 627 | Substrate: The platform for blockchain innovators | 2023-08-25 08:04:25 |
+| [hardhat](https://github.com/NomicFoundation/hardhat) | 8408 | 1688 | 650 | Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.  | 2026-01-20 17:56:53 |
+| [chainlink](https://github.com/smartcontractkit/chainlink) | 8137 | 1935 | 236 | node of the decentralized oracle network, bridging on and off-chain computation | 2026-01-20 20:32:01 |
+| [polkadot](https://github.com/paritytech/polkadot) | 7141 | 1556 | 223 | Polkadot Node Implementation | 2023-08-25 08:04:43 |
+| [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) | 6909 | 4123 | 225 | :chains: A Framework for Building High Value Public Blockchains :sparkles: | 2026-01-20 23:05:24 |
+| [tendermint](https://github.com/tendermint/tendermint) | 5854 | 2103 | 19 | ⟁ Tendermint Core (BFT Consensus) in Go | 2025-03-06 20:43:12 |
 | [web3.py](https://github.com/ethereum/web3.py) | 5472 | 1848 | 131 | A python interface for interacting with the Ethereum blockchain and ecosystem. | 2026-01-12 15:23:40 |
-| [rippled](https://github.com/XRPLF/rippled) | 5073 | 1594 | 466 | Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++ | 2026-01-16 20:01:53 |
+| [rippled](https://github.com/XRPLF/rippled) | 5074 | 1597 | 469 | Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++ | 2026-01-16 20:01:53 |
 | [v3-core](https://github.com/Uniswap/v3-core) | 4943 | 3040 | 83 | 🦄 🦄 🦄 Core smart contracts of Uniswap v3 | 2023-03-16 20:24:31 |
-| [quorum](https://github.com/Consensys/quorum) | 4766 | 1307 | 89 | A permissioned implementation of Ethereum supporting data privacy | 2025-05-27 21:41:07 |
-| [corda](https://github.com/corda/corda) | 4056 | 1081 | 61 | Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value. | 2026-01-07 09:52:03 |
-| [neo](https://github.com/neo-project/neo) | 3535 | 1044 | 244 | NEO Smart Economy | 2026-01-17 16:12:25 |
-| [bsc](https://github.com/bnb-chain/bsc) | 3212 | 1830 | 31 | A BNB Smart Chain client based on the go-ethereum fork | 2025-12-19 02:11:12 |
+| [quorum](https://github.com/Consensys/quorum) | 4765 | 1307 | 89 | A permissioned implementation of Ethereum supporting data privacy | 2025-05-27 21:41:07 |
+| [corda](https://github.com/corda/corda) | 4056 | 1081 | 61 | Corda is an open source blockchain project, designed for business from the start. Only Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value. | 2026-01-20 09:13:52 |
+| [neo](https://github.com/neo-project/neo) | 3536 | 1044 | 244 | NEO Smart Economy | 2026-01-17 16:12:25 |
+| [bsc](https://github.com/bnb-chain/bsc) | 3214 | 1830 | 32 | A BNB Smart Chain client based on the go-ethereum fork | 2025-12-19 02:11:12 |
 | [brownie](https://github.com/eth-brownie/brownie) | 2729 | 587 | 395 | A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine. | 2026-01-14 06:57:54 |
-| [nearcore](https://github.com/near/nearcore) | 2549 | 758 | 385 | Reference client for NEAR Protocol | 2026-01-19 15:18:15 |
+| [nearcore](https://github.com/near/nearcore) | 2549 | 759 | 389 | Reference client for NEAR Protocol | 2026-01-20 23:21:45 |
 | [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) | 2546 | 733 | 336 | FISCO BCOS（发音为/ˈfɪskl bi:ˈkɒz/）是一个稳定、高效、安全的许可区块链平台，已被广泛应用于现实的行业应用。截至目前，已拥有5000多家企事业单位，400多个产业数字化标杆应用，涵盖文化版权、司法服务、政府服务、物联网、金融、智慧社区、房地产建设、社区治理、乡村振兴等领域。FISCO BCOS (pronounced /ˈfɪskl bi:ˈkɒz/) is a stable, efficient, and secure permissioned blockchain platform that has been widely used in real-world industry applications.  | 2026-01-14 07:05:56 |
-| [sushiswap](https://github.com/sushi-labs/sushiswap) | 1953 | 1563 | 13 | Sushi 2.0 🍣 | 2026-01-19 12:14:16 |
+| [sushiswap](https://github.com/sushi-labs/sushiswap) | 1952 | 1563 | 13 | Sushi 2.0 🍣 | 2026-01-19 12:14:16 |
 | [xuperchain](https://github.com/xuperchain/xuperchain) | 1708 | 401 | 87 | A highly flexible blockchain architecture with great transaction performance. | 2024-04-22 02:50:05 |
 | [sawtooth-core](https://github.com/hyperledger-archives/sawtooth-core) | 1419 | 755 | 36 | Core repository for Sawtooth Distributed Ledger | 2024-02-01 16:01:50 |
 | [cita](https://github.com/citahub/cita) | 1312 | 207 | 11 | A high performance blockchain kernel for enterprise users. | 2021-01-14 08:58:31 |
 | [cosmos](https://github.com/cosmos/cosmos) | 1302 | 340 | 72 | Internet of Blockchains ⚛   | 2019-07-14 23:15:34 |
 | [contracts](https://github.com/maticnetwork/contracts) | 1171 | 509 | 65 | Smart contracts comprising the business logic of the Matic Network | 2024-03-01 10:57:31 |
 | [ens](https://github.com/ensdomains/ens) | 1155 | 511 | 91 | Implementations for ENS core functionality: The registry, registrars, and public resolvers. | 2023-09-27 04:12:02 |
-| [aave-v3-core](https://github.com/aave/aave-v3-core) | 1074 | 722 | 48 | This repository contains the core smart contracts of the Aave V3 protocol. | 2024-09-03 13:56:19 |
+| [aave-v3-core](https://github.com/aave/aave-v3-core) | 1075 | 722 | 48 | This repository contains the core smart contracts of the Aave V3 protocol. | 2024-09-03 13:56:19 |
 | [cello](https://github.com/hyperledger-cello/cello) | 909 | 444 | 19 | Operating System for Enterprise Blockchain | 2026-01-12 17:10:29 |
 | [bitxhub](https://github.com/meshplus/bitxhub) | 596 | 89 | 4 | Interchain protocol 跨链协议 | 2023-04-23 03:15:48 |
 | [WeCross](https://github.com/WeBankBlockchain/WeCross) | 206 | 76 | 64 | WeCross跨链路由 | 2024-03-05 01:41:55 |
 
-*Last Update Time: 2026-01-20T00:34:57Z*
+*Last Update Time: 2026-01-21T00:36:40Z*
